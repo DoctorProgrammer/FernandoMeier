@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, my name is Fernando</h1>
-<h3 align="center">A passionate frontend developer from Zürich Switzerland</h3>
+<h1 align="center">Hi! My name is Fernando</h1>
+<h3 align="center">A passionate software developer from Zürich Switzerland</h3>
 
 <p align="center">
 Visitor Count:<br>
